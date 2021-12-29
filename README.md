@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **guidososa2k17@gmail.com**
 
-- ⚡ Fun fact **Programming is my passion**
+<!-- ⚡ Fun fact **Programming is my passion** -->
 
 
 
