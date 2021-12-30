@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guido</h1>
 <h3 align="center">A passionate programmer from Argentina</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **guidososa2k17@gmail.com**
 
